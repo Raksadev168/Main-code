@@ -81,7 +81,7 @@
 .Hometown {
     display:flex;
     align-items:center;
-    /* width: auto; */
+    width: auto;
     height:20px; 
     font-size:10px;
     gap:10px;
