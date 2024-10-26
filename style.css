@@ -118,6 +118,7 @@
     align-items:center;
     gap:5px;
 }
+
 .picture_of_me {
     margin-left: 10%;
     height:350px;
@@ -135,6 +136,7 @@
 }
 
 @media (max-width:1060px) {
+    
     .introduce { 
         flex-direction: column;
         padding-top:0px;
